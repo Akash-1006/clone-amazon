@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    border: border-box;
+}
+.navbar{
+    background-color: black;
+    color: white;
+    height: 4.5rem;
+}
