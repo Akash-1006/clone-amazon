@@ -1,9 +1,35 @@
 *{
     margin: 0;
     border: border-box;
+    color: white;
 }
 .navbar{
     background-color: black;
     color: white;
     height: 4.5rem;
+    display: Flex;
+    align-items: center;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border :hover{
+    border: 2px solid white;
+}
+.navlogo{
+    width: 7.5rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+.logo{
+    
+    background-image: url("logo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 7.2rem;
+    height: 4rem;
 }
