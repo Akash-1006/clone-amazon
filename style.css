@@ -13,12 +13,12 @@
 .border{
     border: 2px solid transparent;
 }
-.border :hover{
-    border: 2px solid white;
+.border:hover{
+    border-color: white;
 }
 .navlogo{
     width: 7.5rem;
-    height: 3rem;
+    height: 2.8rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,6 +30,32 @@
     background-image: url("logo.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    width: 7.2rem;
-    height: 4rem;
+    width: 6.5rem;
+    height: 2.8rem;
+}
+.navloc{
+    width: 7.5rem;
+    height: 2.8rem;
+}
+.location{
+    width: 7.5rem;
+    height: 2.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a1{
+    font-size:0.85rem;
+
+}
+.a2 i{
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+.add2{
+    font-weight: 800;
+    margin-top: 5px;
+    margin-left: 20px;
+
+
 }
