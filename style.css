@@ -34,28 +34,44 @@
     height: 2.8rem;
 }
 .navloc{
-    width: 7.5rem;
-    height: 2.8rem;
+    width: 5rem;
+    height: 3rem;
+    display:flex;
+    align-items: center;
+    justify-content: center;
 }
+
 .location{
-    width: 7.5rem;
-    height: 2.8rem;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.a1{
-    font-size:0.85rem;
-
+.addressicon {
+    font-size: 1.5rem;
 }
-.a2 i{
-    font-size: 1.2rem;
-    margin-top: 10px;
+.add1{
+    font-size: 0.85rem;
+    margin-left: 5px;
+   
 }
 .add2{
+    margin-top: 2px;
+    margin-left: 2px;
     font-weight: 800;
-    margin-top: 5px;
-    margin-left: 20px;
-
-
+}
+.navsearch{
+    width: 45rem;
+    height: 2.5rem;
+    display: flex;
+}
+.searchbar{
+    width: 88%;
+}
+.searchicon{
+    width: 20px;
+    font-size: 20px;
+}
+.selectcat{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
