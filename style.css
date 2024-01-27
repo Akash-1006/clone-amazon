@@ -63,15 +63,60 @@
     width: 45rem;
     height: 2.5rem;
     display: flex;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+.border-nav{
+    border: 2px solid transparent;
+}
+.border-nav:hover{
+    border: 2px solid orange;
+   
 }
 .searchbar{
-    width: 88%;
+    width: 90%;
 }
 .searchicon{
-    width: 20px;
+    width: 35px;
     font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: orange;
+
 }
 .selectcat{
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
+    color:black;
+    background-color: aliceblue;
+}
+.selectcat option{
+    background-color: whitesmoke;
+    color: black;
+}
+.navAccounts{
+    margin-left: 10px;
+}
+.hello{
+    font-size: 0.85rem;
+}
+.accounts_lists{
+    font-weight: 800;
+}
+.returns{
+    font-size: 0.85rem;
+}
+.accounts_lists{
+    font-weight: 800;
+}
+.navCart{
+    display: flex;
+}
+.Carticon{
+    font-size: 25px;
+}
+.cart{
+    margin-top: 10px;
 }
