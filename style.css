@@ -9,6 +9,7 @@
     height: 4.5rem;
     display: Flex;
     align-items: center;
+    justify-content: space-evenly;
 }
 .border{
     border: 2px solid transparent;
@@ -117,6 +118,35 @@
 .Carticon{
     font-size: 25px;
 }
-.cart{
-    margin-top: 10px;
+.menubar{
+    color: black;
+    background-color: #0f1111;
+    height: 40px;
+    font-weight: 200;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.border2{
+    border: 1px solid transparent;
+}
+.border2:hover{
+    border-color: white;
+}
+
+.bg1{
+    background-image: url("BG.jpg");
+    background-size: cover;
+    height: 230px;
+}
+.mainmenu{
+    background-image: linear-gradient(black,white);
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box{
+    width: 300px;
+    height: 350px;
+    background-color: pink;
 }
