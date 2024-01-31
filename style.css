@@ -148,5 +148,90 @@
 .box{
     width: 300px;
     height: 350px;
-    background-color: pink;
+    background-color: aliceblue;
+}
+.box1img1{
+    background-image: url("box_1_obj_1.jpg");
+    width: 130px;
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
+}
+.box1img2{
+    background-image: url("box_1_obj_2.jpg");
+    width: 130px;
+    height: 120px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
+}
+.box1img3{
+    background-image: url("box_1_obj_3.jpg");
+    width: 130px;
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
+}
+.box1img4{
+    background-image: url("box_1_obj_4.jpg");
+    width: 130px;
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
+}
+.toprow{
+    margin-top: 15px;
+    display: flex;
+}
+.bottomrow{
+    margin-top: 10px;
+    display: flex;
+}
+.text1{
+    margin: 10px;
+
+}
+.text1 p{
+    color: black;
+    font-size: large;
+}
+.seemore1 a{
+    color: black;
+    margin-left: 10px;
+}
+
+.box3img1{
+    background-image: url("box_3_obj_1.jpg");
+    width: 130px;
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
+}
+.box3img2{
+    background-image: url("box_3_obj_2.jpg");
+    width: 130px;
+    height: 120px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
+}
+.box3img3{
+    background-image: url("box_3_obj_3.jpg");
+    width: 130px;
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
+}
+.box3img4{
+    background-image: url("box_3_obj_4.jpg");
+    width: 130px;
+    height: 130px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px 10px 0px 10px;
 }
