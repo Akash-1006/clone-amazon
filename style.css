@@ -200,7 +200,7 @@
 }
 .seemore1 a{
     color: black;
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .box3img1{
@@ -234,4 +234,34 @@
     background-size: contain;
     background-repeat: no-repeat;
     margin: 10px 10px 0px 10px;
+}
+.text3{
+    margin: 10px;
+}
+.text3 p{
+    color: black;
+    font-size: large;
+}
+.seemore3 a{
+    color: black;
+    margin-left: 20px;
+}
+.text4{
+    margin: 10px;
+}
+.text4 p{
+    color: black;
+    font-size: large;
+}
+.seemore4 a{
+    color: black;
+    margin-left: 20px;
+}
+.box4img1{
+    background-image: url("box_4_obj_1.jpg");
+    width: 280px;
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 10%;
 }
