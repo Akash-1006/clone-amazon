@@ -268,6 +268,7 @@
 .text2 p{
     color: black;
     font-size: large;
+    margin: 10px;
 }
 .seemore2 a{
     color: black;
@@ -281,4 +282,11 @@
     background-repeat: no-repeat;
     background-position: 10%;
     margin: 10px;
+}
+.mainmenu{
+    display: flex;
+    height: 350px;
+}
+.mainmenu2{
+    display: flex;
 }
