@@ -150,6 +150,12 @@
     height: 350px;
     background-color: aliceblue;
 }
+.box_1{
+    width: 300px;
+    height: 350px;
+    background-color: aliceblue;
+    margin: 10px 10px 0px 10px;
+}
 .box1img1{
     background-image: url("box_1_obj_1.jpg");
     width: 130px;
@@ -285,8 +291,10 @@
 }
 .mainmenu{
     display: flex;
-    height: 350px;
+    height: 320px;
 }
 .mainmenu2{
     display: flex;
+    margin-top: 50px;
+    margin-left: 10px;
 }
