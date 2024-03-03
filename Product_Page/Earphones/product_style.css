@@ -156,6 +156,8 @@
     background-color: aliceblue;
 }
 .box_1{
+    width: 250px;
+    height: 350px;
     background-color: aliceblue;
     margin: 10px 10px 0px 10px;
 }
@@ -297,9 +299,10 @@
     height: 320px;
 }
 .mainmenu2{
+    background-color: blue;
     display: flex;
     margin-top: 50px;
-    margin-left: 10px;
+    margin-left: 290px;
 }
 .box5img1{
     background-image: url("box_5_obj_1.jpg");
