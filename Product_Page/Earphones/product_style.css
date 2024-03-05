@@ -147,7 +147,7 @@
 }
 .sidebar{
     width: 300px;
-    height: 800px;
+    height: 1500px;
     background-color: black;
 }
 .box{
@@ -297,6 +297,18 @@
 .mainmenu{
     display: flex;
     height: 320px;
+}
+.mainmenu3{
+    display: flex;
+    height: 320px;
+    margin-left: 310px;
+    margin-top: 30px;
+}
+.mainmenu4{
+    display: flex;
+    height: 320px;
+    margin-left: 310px;
+    margin-top: 50px;
 }
 .mainmenu2{
     background-color: blue;
