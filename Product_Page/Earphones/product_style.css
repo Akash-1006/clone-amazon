@@ -169,22 +169,6 @@
     background-repeat: no-repeat;
     margin: 10px 10px 0px 10px;
 }
-.box1img1{
-    background-image: url("Image_1.jpg");
-    width: 220px;
-    height: 250px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
-}
-.box1img1{
-    background-image: url("Image_1.jpg");
-    width: 220px;
-    height: 250px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
-}
 .box1img2{
     background-image: url("Image_2.jpg");
     width: 220px;
@@ -299,7 +283,7 @@
 }
 .box1img16{
     background-image: url("Image_16.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
     background-size: contain;
     background-repeat: no-repeat;
