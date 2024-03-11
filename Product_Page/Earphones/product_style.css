@@ -147,7 +147,7 @@
 }
 .sidebar{
     width: 300px;
-    height: 2500px;
+    height: 2630px;
     background-color: black;
 }
 .box_1{
@@ -157,202 +157,190 @@
 }
 .box{
     width: 250px;
-    height: 350px;
+    height: 410px;
     background-color: aliceblue;
     margin: 0px 0px 0px 10px;
+    border: 1px solid black;
+    border:hover{border-color: black;}
 }
 .box1img1{
     background-image: url("Image_1.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img2{
     background-image: url("Image_2.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img3{
     background-image: url("Image_3.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img4{
     background-image: url("Image_4.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
+
+
 .box1img5{
     background-image: url("Image_5.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img6{
     background-image: url("Image_6.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
+}
+.box1img6{
+    background-image: url("Image_7.jpg");
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .box1img7{
     background-image: url("Image_7.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img8{
     background-image: url("Image_8.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img9{
     background-image: url("Image_9.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img10{
     background-image: url("Image_10.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img11{
     background-image: url("Image_11.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img12{
     background-image: url("Image_12.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img13{
     background-image: url("Image_13.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img14{
     background-image: url("Image_14.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img15{
-    background-image: url("Image_15.jpg");
-    width: 220px;
+    background-image: url("Image_16.jpg");
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img16{
     background-image: url("Image_16.jpg");
     width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img17{
     background-image: url("Image_17.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img18{
     background-image: url("Image_18.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img19{
     background-image: url("Image_19.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img20{
     background-image: url("Image_20.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img21{
     background-image: url("Image_21.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img22{
     background-image: url("Image_22.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img23{
     background-image: url("Image_23.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
 .box1img24{
     background-image: url("Image_24.jpg");
-    width: 220px;
+    width: 250px;
     height: 250px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    margin: 10px 10px 0px 10px;
 }
+
 .text1{
     margin: 10px;
 
@@ -400,35 +388,36 @@
 }
 .mainmenu{
     display: flex;
-    height: 320px;
+    height: 400px;
 }
 .mainmenu3{
     display: flex;
-    height: 320px;
-    margin-left: 310px;
-    margin-top: 50px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 40px;
 }
 .mainmenu4{
     display: flex;
-    height: 320px;
-    margin-left: 310px;
-    margin-top: 50px;
+    height: 400px;
+    margin-left: 300px;
+    margin-top: 30px;
 }
 .mainmenu2{
     display: flex;
-    margin-top: 50px;
-    margin-left: 310px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 300px;
 }
 .mainmenu5{
     display: flex;
-    height: 320px;
-    margin-left: 310px;
+    height: 400px;
+    margin-left: 300px;
     margin-top: 50px;
 }
 .mainmenu6{
     display: flex;
-    height: 320px;
-    margin-left: 310px;
+    height: 400px;
+    margin-left: 300px;
     margin-top: 50px;
 }
 .text6{
