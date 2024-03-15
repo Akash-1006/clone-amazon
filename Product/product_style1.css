@@ -145,3 +145,27 @@
     display: flex;
     justify-content: space-evenly;
 }
+.sidelist{
+    height: 500px;
+    width: 50px;
+    background-color: darkblue;
+
+}
+.product1{
+    background-image: url("Image_1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+    margin-left: 2px;
+}
+.product_image{
+    display: flex;
+    margin-top: 30px;
+}
+.text1 h1{
+    width: 280px;
+    height: 280px;
+    color: #0f1111;
+    font-size: xx-large;
+}
