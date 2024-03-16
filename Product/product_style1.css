@@ -163,9 +163,29 @@
     display: flex;
     margin-top: 30px;
 }
+.text1{
+    width: 380px;
+    height: 800px;
+    color: #0f1111;
+    font-size: xx-large;
+    background-color: aquamarine;
+}
 .text1 h1{
     width: 280px;
     height: 280px;
     color: #0f1111;
+    font-size: xx-large;
+}
+.text2{
+    width: 350px;
+    height: 800px;
+    font-size: xx-large;
+    background-color:black;
+    margin-left: 20px;
+}
+.text2 h1{
+    width: 280px;
+    height: 280px;
+    color: white;
     font-size: xx-large;
 }
