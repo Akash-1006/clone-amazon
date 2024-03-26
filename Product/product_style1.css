@@ -205,13 +205,30 @@
 .view{
     width:40px;
     height: 55px;
-    border: 1px solid transparent;
-    background-color: black;
+    border: 2px solid transparent;
     border-radius: 5px;
     margin-left: 2px;
     margin-top:3px;
 }
 
-.view1{
-    margin-top:10px;
+.view1:hover{
+    border-color: teal;
+    
 }
+.view2:hover{
+    border-color: teal;
+
+}
+.view3:hover{
+    border-color: teal;
+
+}
+.view4:hover{
+    border-color: teal;
+
+}
+.view5:hover{
+    border-color: teal;
+
+}
+
